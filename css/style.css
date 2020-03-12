@@ -209,7 +209,8 @@ main{
 }
 .front-page{
   max-width: 850px;
-  margin: 7em auto 0 auto;
+  margin: 6em auto 0 auto;
+  padding-top: 1em;
 }
 main h1{
   margin-top: 0;
