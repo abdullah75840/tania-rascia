@@ -1,7 +1,7 @@
 $(document).ready(function () {
       $(window).scroll(function () {
           var iCurScrollPos = window.scrollY;
-          if (iCurScrollPos > 0) {
+          if (iCurScrollPos > 20) {
             $(".nav").addClass("scroll");
           } else {
             $(".nav").removeClass("scroll");
